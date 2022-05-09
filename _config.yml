@@ -122,3 +122,7 @@ comments:
     branch    : "master"
     endpoint  : https://{your Staticman v3 API}/v3/entry/github/
 
+reCaptcha:
+  enabled: true
+  siteKey: # "6Lcw69gfAAAAACPXSXYeu6NiHI9eMc9Kyl9gfOKB"
+  secret: # "  "
