@@ -113,3 +113,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# _config.yml (defaults)
+repository  : tedt.org-3.0 # Git username/repo-name e.g. "mmistakes/minimal-mistakes"
+comments:
+  provider  : "staticman_v2"
+  staticman:
+    branch    : "master"
+    endpoint  : https://{your Staticman v3 API}/v3/entry/github/
+
